@@ -3,7 +3,7 @@
 
 - 🔭 I currently work at [MongoDB](https://www.mongodb.com/)
 
-- 🌱 I’m currently learning **UX Design, React**
+- 🌱 I’m currently learning **UX Design, React, Godot and Blender**
 
 - 💬 Ask me about **IoT, [Home assistant](https://home-assistant.io), Home automation, Python, JavaScript, Arduino**
 
